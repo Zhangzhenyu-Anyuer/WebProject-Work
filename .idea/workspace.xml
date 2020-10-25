@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ad49ad1-0cd1-4987-8fbc-b7416bcd7d67" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jMo2q64O2c2SE4jT0ORUP8OaGl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="run" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/day4_project/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ad49ad1-0cd1-4987-8fbc-b7416bcd7d67" name="Default Changelist" comment="" />
+      <created>1603623118333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603623118333</updated>
+      <workItem from="1603623119525" duration="6767000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="72" y="43" width="1089" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603625231994">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="72" y="43" width="1089" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1234.783@0.0.1234.783" timestamp="1603625231994" />
+    <state width="1213" height="197" key="GridCell.Tab.0.bottom" timestamp="1603630298044">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state width="1213" height="197" key="GridCell.Tab.0.bottom/0.0.1234.783@0.0.1234.783" timestamp="1603630298044" />
+    <state width="1213" height="197" key="GridCell.Tab.0.center" timestamp="1603630298044">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state width="1213" height="197" key="GridCell.Tab.0.center/0.0.1234.783@0.0.1234.783" timestamp="1603630298044" />
+    <state width="1213" height="197" key="GridCell.Tab.0.left" timestamp="1603630298044">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state width="1213" height="197" key="GridCell.Tab.0.left/0.0.1234.783@0.0.1234.783" timestamp="1603630298044" />
+    <state width="1213" height="197" key="GridCell.Tab.0.right" timestamp="1603630298044">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state width="1213" height="197" key="GridCell.Tab.0.right/0.0.1234.783@0.0.1234.783" timestamp="1603630298044" />
+  </component>
+</project>
