@@ -1,13 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ad49ad1-0cd1-4987-8fbc-b7416bcd7d67" name="Default Changelist" comment="" />
+    <list default="true" id="1ad49ad1-0cd1-4987-8fbc-b7416bcd7d67" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/drf_day1/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drf_day1/.idea/drf_day1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drf_day1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drf_day1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drf_day1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drf_day1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drf_day1/user/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drf_day1/user/migrations/0002_auto_20201027_2155.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drf_day1/user/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drf_day1/user/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drf_day2/app/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drf_day2/app/migrations/0002_auto_20201028_2159.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drf_day2/app/migrations/0003_auto_20201028_2201.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drf_day2/app/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drf_day2/app/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drf_day2/app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drf_day3/api/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drf_day3/api/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drf_day3/api/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drf_work_day1/app/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/drf_day1/user/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="357" />
+    <option name="y" value="-35" />
+    <option name="width" value="1453" />
+    <option name="height" value="1271" />
+  </component>
   <component name="ProjectId" id="1jMo2q64O2c2SE4jT0ORUP8OaGl" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WebProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebProject" type="462c0819:PsiDirectoryNode" />
+              <item name="drf_day1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebProject" type="462c0819:PsiDirectoryNode" />
+              <item name="drf_day1" type="462c0819:PsiDirectoryNode" />
+              <item name="drf_day1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebProject" type="462c0819:PsiDirectoryNode" />
+              <item name="drf_day1" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -18,6 +104,18 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager">
     <configuration name="run" type="js.build_tools.npm" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/day4_project/package.json" />
@@ -27,7 +125,10 @@
       <method v="2" />
     </configuration>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1ad49ad1-0cd1-4987-8fbc-b7416bcd7d67" name="Default Changelist" comment="" />
@@ -36,11 +137,46 @@
       <option name="presentableId" value="Default" />
       <updated>1603623118333</updated>
       <workItem from="1603623119525" duration="6767000" />
+      <workItem from="1603785746430" duration="130000" />
+      <workItem from="1603796395269" duration="99000" />
+      <workItem from="1603842117409" duration="625000" />
+      <workItem from="1604060562017" duration="54000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="908000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1248" height="797" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24957983" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Mongo Explorer" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="72" y="43" width="1089" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603625231994">
@@ -63,5 +199,16 @@
       <screen x="0" y="0" width="1234" height="783" />
     </state>
     <state width="1213" height="197" key="GridCell.Tab.0.right/0.0.1234.783@0.0.1234.783" timestamp="1603630298044" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/drf_day1/user/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
